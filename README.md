@@ -17,7 +17,7 @@ Copyright 2019-2021 The Oxen Project
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 
-#Flowcharts
+## Flowcharts
 
 <img width="431" height="281" alt="image" src="https://github.com/user-attachments/assets/4fe27fba-b3e1-4919-98d5-8975c863701c" />
 <img width="451" height="263" alt="image" src="https://github.com/user-attachments/assets/a61852d0-c207-45f0-bc63-a490e79925d7" />
@@ -25,7 +25,7 @@ Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 <img width="315" height="371" alt="image" src="https://github.com/user-attachments/assets/b1d00718-3243-4928-b4d7-fdb355478259" />
 <img width="315" height="371" alt="image" src="https://github.com/user-attachments/assets/5f82f1d9-53c8-42b3-9547-8cf68250aa62" />
 
-#Screenshots
+## Screenshots
 
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/a61a844a-9ad8-4af6-953c-3646a012a8ef" />
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f97a94f1-6533-48b4-96c8-3da5cb7570f6" />
